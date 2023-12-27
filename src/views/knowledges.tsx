@@ -82,8 +82,10 @@ const Projects = () => {
             viewport={{ once: false }}
             className="flex gap-12 mt-12 flex-wrap justify-center"
           >
+            
             {filteredProjects().map((item) => (
               <Card imgSrc={item.img} title={item.title} />
+             //<Card imgSrc={item.img} title={item.title}> <img src={item.img}/> </Card>
             ))}
           </motion.div>
         </div>

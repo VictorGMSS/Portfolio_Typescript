@@ -46,7 +46,7 @@ const About = () => {
           </Reveal>
 
           <Reveal>
-            <p className="text-center xl:text-start text-base sm:text-lg text-textSecondary">
+            <p className="text-left xl:text-start text-base sm:text-lg text-textSecondary" style={{ color: 'white'}}>
               Olá! Sou Victor, um profissional em Ciências da Computação com experiência em estágios presenciais, manutenção interna em hotéis, trabalho 
               remoto com startups e grandes empresas, incluindo a FORD, onde atuei como Full Stack por 2 anos, construindo uma plataforma interna para 
               cálculos de juntas. Voluntariamente, contribuo para projetos de automação, Riot API e Análise de dados na LigaGG. Estou em busca de 
