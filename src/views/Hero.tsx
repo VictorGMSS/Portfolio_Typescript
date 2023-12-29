@@ -2,7 +2,7 @@
 import homePageImg from "../assets/home-page.svg";
 import homePageIllustation from "../assets/hero-illustration.svg";
 import downloadIcon from "../assets/download-btn-icon.svg";
-
+import downloadPDF from "../assets/Curriculo_Victor_Martins_2024.pdf";
 // components
 import { Button } from "../components";
 
@@ -39,10 +39,10 @@ const Hero = () => {
             initial="hidden"
             whileInView="visible"
             viewport={{ once: false }}
-            className="w-full xl:w-fit text-center xl:text-start text-4xl sm:text-6xl lg:text-8xl
+            className="w-full xl:w-fit text-center xl:text-start text-3xl sm:text-6xl lg:text-8xl
               font-bolt text-textPrimary uppercase"
           >
-            Creative
+            Victor Gabriel
             <br />
             <span style={{ color: '#09DBFF' }}>
               <Typewriter
@@ -64,7 +64,14 @@ const Hero = () => {
             className="my-12 flex flex-col sm:flex-row items-center gap-6 justify-center xl:justify-start"
           >
             <Button secondary>Hire me</Button>
-            <Button icon={downloadIcon}>Download CV</Button>
+            <a 
+              className="w-full" 
+              href={downloadPDF} 
+              download="Curriculo Victor Martins 2024"
+            >
+              
+            <Button icon={downloadIcon}>Download CV</Button></a>
+            
           </motion.div>
         </div>
 
