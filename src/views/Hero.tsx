@@ -63,9 +63,9 @@ const Hero = () => {
             viewport={{ once: false }}
             className="my-12 flex flex-col sm:flex-row items-center gap-6 justify-center xl:justify-start"
           >
-            <Button secondary>Hire me</Button>
+           <Button secondary>Hire me</Button>
             <a 
-              className="w-full" 
+              className="w-full sm:w-auto" 
               href={downloadPDF} 
               download="Curriculo Victor Martins 2024"
             >
