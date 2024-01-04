@@ -103,7 +103,7 @@ const Works = () => {
 
                 <div className="sm:hidden">
                   {filteredWorks().map((item) => (
-                    <a href={item.link} target="_blank">
+                    <a href={item.link2} target="_blank">
                       <Card imgSrc={item.img} title={item.title} />
                     </a>
                   ))}
@@ -132,7 +132,7 @@ const Works = () => {
       
           <div className="sm:block hidden">
             {filteredWorks().map((item) => (
-              <a href={item.link} target="_blank">
+              <a href={item.link2} target="_blank">
                 <Card imgSrc={item.img} title={item.title} />
               </a>
             ))}

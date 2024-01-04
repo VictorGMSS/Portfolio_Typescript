@@ -84,7 +84,9 @@ const Projects = () => {
           >
             
             {filteredProjects().map((item) => (
-              <Card imgSrc={item.img} title={item.title} />
+              <a href={item.link} target="_blank">
+                <Card imgSrc={item.img} title={item.title} />
+              </a>
              //<Card imgSrc={item.img} title={item.title}> <img src={item.img}/> </Card>
             ))}
           </motion.div>

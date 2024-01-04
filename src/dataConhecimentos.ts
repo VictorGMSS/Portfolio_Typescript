@@ -30,7 +30,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: Typescript,
     title: "Typescript",
-    link: `https://www.linkedin.com/company/ford-brasil/`
+    link: `https://kenzie.com.br/blog/typescript/`
   },
 
   {
@@ -38,7 +38,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: Python,
     title: "Python",
-    link: `https://www.linkedin.com/company/ford-brasil/`
+    link: `https://kenzie.com.br/blog/o-que-e-python/`
   },
 
   {
@@ -46,7 +46,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: Django,
     title: "Django",
-    link: `https://www.linkedin.com/company/ford-brasil/`
+    link: `https://kenzie.com.br/blog/django/`
   },
 
   {
@@ -54,7 +54,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: JavaScript,
     title: "JavaScript",
-    link: `https://www.linkedin.com/company/ford-brasil/`
+    link: `https://kenzie.com.br/blog/javascript/`
   },
 
   {
@@ -62,7 +62,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: React,
     title: "React",
-    link: `https://www.linkedin.com/company/ford-brasil/`
+    link: `https://kenzie.com.br/blog/react/`
   },
 
   {
@@ -70,7 +70,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: NodeJS,
     title: "NodeJS",
-    link: `https://www.linkedin.com/company/ford-brasil/`
+    link: `https://www.alura.com.br/artigos/node-js`
   },
 
   {
@@ -86,7 +86,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: CSS,
     title: "CSS",
-    link: `https://www.linkedin.com/company/ford-brasil/`
+    link: `https://kenzie.com.br/blog/full-stack-o-que-e/`
   },
 
   {
@@ -94,7 +94,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: Tailwind,
     title: "Tailwind",
-    link: `https://www.linkedin.com/company/ford-brasil/`
+    link: `https://www.alura.com.br/artigos/tailwind-framework-bootstrap-tailwind`
   },
 
   {
@@ -102,7 +102,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: AWS,
     title: "AWS",
-    link: `https://www.linkedin.com/company/ford-brasil/`
+    link: `https://aws.amazon.com/pt/what-is-aws/`
   },
 
   {
@@ -110,7 +110,7 @@ export const works: Work[] = [
     category: "Dados",
     img: Python,
     title: "Python",
-    link: `https://www.linkedin.com/company/itgoal/`
+    link: `https://kenzie.com.br/blog/o-que-e-python/`
   },
 
   {
@@ -118,7 +118,7 @@ export const works: Work[] = [
     category: "Dados",
     img: Numpy,
     title: "Numpy",
-    link: `https://www.linkedin.com/company/itgoal/`
+    link: `https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python`
   },
 
   {
@@ -126,7 +126,7 @@ export const works: Work[] = [
     category: "Dados",
     img: Matplotlib,
     title: "Matplotlib",
-    link: `https://www.linkedin.com/company/itgoal/`
+    link: `https://www.alura.com.br/artigos/criando-graficos-no-python-com-a-matplotlib`
   },
 
   {
@@ -134,7 +134,7 @@ export const works: Work[] = [
     category: "Dados",
     img: Excel,
     title: "Excel",
-    link: `https://www.linkedin.com/company/itgoal/`
+    link: `https://ebaconline.com.br/blog/o-que-e-para-que-serve-excel`
   },
 
   {
@@ -142,7 +142,7 @@ export const works: Work[] = [
     category: "Dados",
     img: VBA,
     title: "VBA",
-    link: `https://www.linkedin.com/company/itgoal/`
+    link: `https://www.techtudo.com.br/dicas-e-tutoriais/2022/12/o-que-e-vba-no-excel-e-como-usar-veja-exemplos-comandos-e-tutorial.ghtml`
   },
 
   {
@@ -150,6 +150,6 @@ export const works: Work[] = [
     category: "Dados",
     img: Pandas,
     title: "Pandas",
-    link: `https://www.linkedin.com/company/itgoal/`
+    link: `https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar`
   },
 ];

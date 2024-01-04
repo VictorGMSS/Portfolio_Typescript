@@ -11,6 +11,7 @@ interface Work {
   certify: string,
   tools: string,
   link: string,
+  link2: string,
 }
 
 export const works: Work[] = [
@@ -39,7 +40,9 @@ export const works: Work[] = [
       ReactJS, HTML5, Bootstrap, CSS3 e Sharepoint.
     `, 
 
-    link: `https://drive.google.com/file/d/17qVA5fPxLDNpN84V7n9IA1XtG8eb9_xQ/view`
+    link: `https://drive.google.com/file/d/17qVA5fPxLDNpN84V7n9IA1XtG8eb9_xQ/view`,
+
+    link2: `https://www.unisantos.br/`
   },
 
   {
@@ -67,7 +70,9 @@ export const works: Work[] = [
       Automatização dos sorteios que abrangem todos os confrontos do campeonato.
     `,
 
-    link: `https://drive.google.com/drive/folders/1rSCY8zVyHe79m1fQ5kNa0axyShaBfRtb`
+    link: `https://drive.google.com/drive/folders/1rSCY8zVyHe79m1fQ5kNa0axyShaBfRtb`,
+
+    link2: `https://www.dio.me`
   },
 
   {
@@ -92,7 +97,9 @@ export const works: Work[] = [
       desenvolvimento com a linguagem de programação Python.
     `,
 
-    link: `https://cursos.alura.com.br/user/verxsoficial/fullCertificate/064f0f0dbb1c7ea639cbec10f4849d5f`
+    link: `https://cursos.alura.com.br/user/verxsoficial/fullCertificate/064f0f0dbb1c7ea639cbec10f4849d5f`,
+
+    link2: `https://www.alura.com.br`
   },
 
 ];
