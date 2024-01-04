@@ -66,7 +66,7 @@ const About = () => {
             className="flex items-center justify-center xl:justify-start gap-6"
           >
             <SocialMediaIcon imgSrc={linkedinIcon} title="Linkedin" link="https://www.linkedin.com/in/victorgms/" />
-            <SocialMediaIcon imgSrc={githubIcon} title="Instagram" link="https://github.com/VictorGMSS" />
+            <SocialMediaIcon imgSrc={githubIcon} title="Github" link="https://github.com/VictorGMSS" />
           </motion.div>
         </div>
 

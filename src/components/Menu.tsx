@@ -25,7 +25,7 @@ const Menu = () => {
       </Link>
 
       <Link to="about" smooth>
-        <Tooltip title="About" placement="top" arrow>
+        <Tooltip title="Sobre" placement="top" arrow>
           <IconButton className="group">
             <PersonIcon className="text-white group-hover:text-secondary" />
           </IconButton>
@@ -33,7 +33,7 @@ const Menu = () => {
       </Link>
 
       <Link to="projects" smooth>
-        <Tooltip title="Projects" placement="top" arrow>
+        <Tooltip title="Conhecimentos" placement="top" arrow>
           <IconButton className="group">
             <AppsIcon className="text-white group-hover:text-secondary" />
           </IconButton>
@@ -41,7 +41,7 @@ const Menu = () => {
       </Link>
 
       <Link to="Work" smooth>
-        <Tooltip title="Work" placement="top" arrow>
+        <Tooltip title="Trabalho" placement="top" arrow>
           <IconButton className="group">
             <ExperienceIcon className="text-white group-hover:text-secondary" />
           </IconButton>
@@ -49,7 +49,7 @@ const Menu = () => {
       </Link>
 
       <Link to="Certificates" smooth>
-        <Tooltip title="Certificates" placement="top" arrow>
+        <Tooltip title="Certificados" placement="top" arrow>
           <IconButton className="group">
             <CertificatesIcon className="text-white group-hover:text-secondary" />
           </IconButton>
