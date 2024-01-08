@@ -1,5 +1,5 @@
 // assets
-import aboutPageImg from "../assets/about-me-page.svg";
+import aboutPageImg from "../assets/Background_2.svg";
 import aboutIllustration from "../assets/about-illustration.svg";
 import linkedinIcon from "../assets/linkedin-icon.svg";
 import githubIcon from "../assets/github-icon.svg";

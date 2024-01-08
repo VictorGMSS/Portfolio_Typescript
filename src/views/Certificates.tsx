@@ -2,7 +2,7 @@
 import { useState } from "react";
 
 // assets
-import projectsPageImg from "../assets/projects-page.svg";
+import projectsPageImg from "../assets/Background_2.svg";
 
 // components
 import { Button, Card, Reveal } from "../components";

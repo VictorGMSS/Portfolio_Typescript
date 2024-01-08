@@ -1,5 +1,5 @@
 // assets
-import homePageImg from "../assets/home-page.svg";
+import homePageImg from "../assets/Background_1.svg";
 import homePageIllustation from "../assets/hero-illustration.svg";
 import downloadIcon from "../assets/download-btn-icon.svg";
 import downloadPDF from "../assets/Curriculo_Victor_Martins_2024.pdf";
@@ -63,7 +63,13 @@ const Hero = () => {
             viewport={{ once: false }}
             className="my-12 flex flex-col sm:flex-row items-center gap-6 justify-center xl:justify-start"
           >
-           <Button secondary>Me contate</Button>
+
+            <a 
+              className="w-full sm:w-auto" 
+              href="https://www.linkedin.com/in/victorgms/"
+              target="_blank"
+            >
+           <Button secondary>Me contate</Button></a>
             <a 
               className="w-full sm:w-auto" 
               href={downloadPDF} 
