@@ -3,7 +3,7 @@ import LigaGG from "./assets/Logo_ligagg.png";
 import Kampjo from "./assets/Kampjo_logo.png";
 import Sofitel from "./assets/sofitel_logo.png";
 import Itgoal from "./assets/itgoal_logo.png";
-
+import SysManager from "./assets/Sys-Manager_logo.png";
 interface Work {
   id: number;
   category: string;
@@ -152,5 +152,31 @@ export const works: Work[] = [
     link: `https://www.linkedin.com/company/itgoal/`,
 
     data: `04/2021 - 05/2021`
+  },
+
+  {
+    id: 5,
+    category: "SysManager",
+    img: SysManager,
+    title: "Sys Manager",
+    description: `
+      Na Sys Manager, atuei como desenvolvedor fullstack pleno, alocado em um projeto para uma empresa parceira. Minhas principais responsabilidades incluíram: 
+      Desenvolvimento de back-end utilizando Node.js, implementação de funcionalidades com TypeScript, Node.js e GO, desenvolvimento de interfaces front-end 
+      utilizando ReactJS e JavaScript, utilização de ferramentas como Docker, GIT e GitLab para gerenciar e versionar o código, customização do código-fonte 
+      do Grafana para atender às necessidades específicas do projeto, desenvolvimento de software focado em aplicações para internet, sistemas embarcados e 
+      arquiteturas cliente-servidor.
+    `,
+
+    inWork: `
+      Na Sys Manager atuei nas seguintes responsabilidades:
+    `,
+
+    tools: `
+      Conteinerização com Docker, versionamentoi com GIT e GitLab, front-end com ReactJS e JavaScript, back-end com TypeScript, Node.js e GO.
+    `,
+
+    link: `https://www.linkedin.com/company/sysmanager/`,
+
+    data: `02/2024 - 07/2024`
   },
 ];

@@ -13,7 +13,7 @@ import Matplotlib from "./assets/matplotlib_logo.png";
 import Excel from "./assets/excel_logo.png";
 import VBA from "./assets/VBA_logo.png";
 import Pandas from "./assets/pandas_logo.png";
-
+import Docker from "./assets/Docker_logo.png";
 
 interface Work {
   id: number;
@@ -103,6 +103,14 @@ export const works: Work[] = [
     img: AWS,
     title: "AWS",
     link: `https://aws.amazon.com/pt/what-is-aws/`
+  },
+
+  {
+    id: 16,
+    category: "FullStack",
+    img: Docker,
+    title: "Docker",
+    link: `https://www.hostinger.com.br/tutoriais/o-que-e-docker`
   },
 
   {

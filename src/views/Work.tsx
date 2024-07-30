@@ -17,7 +17,7 @@ import { motion } from "framer-motion";
 import { fadeIn } from "../utils/variants";
 import { transition } from "../utils/transition";
 
-type Category = "LigaGG" | "Kampjo" | "Ford" | "Sofitel" | "Itgoal";
+type Category = "LigaGG" | "Kampjo" | "Ford" | "Sofitel" | "Itgoal" | "SysManager";
 
 const Works = () => {
   const [activeCategory, setActiveCategory] = useState<Category>("Ford");
@@ -31,6 +31,8 @@ const Works = () => {
       return works.filter((item) => item.category === "Sofitel");
     }if(activeCategory === "Itgoal"){
       return works.filter((item) => item.category === "Itgoal");
+    }if(activeCategory === "SysManager"){
+      return works.filter((item) => item.category === "SysManager");
     }else {
       return works.filter((item) => item.category === "Kampjo");
     }
@@ -71,6 +73,13 @@ const Works = () => {
               onClick={() => setActiveCategory("Ford")}
             >
               Ford
+            </Button>
+
+            <Button
+              secondary={activeCategory === "SysManager" ? true : false}
+              onClick={() => setActiveCategory("SysManager")}
+            >
+              Sys Manager
             </Button>
 
             <Button
