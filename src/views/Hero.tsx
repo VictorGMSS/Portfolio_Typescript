@@ -2,7 +2,7 @@
 import homePageImg from "../assets/Background_1.svg";
 import homePageIllustation from "../assets/hero-illustration.svg";
 import downloadIcon from "../assets/download-btn-icon.svg";
-import downloadPDF from "../assets/Curriculo_Victor_Martins_2024.pdf";
+import downloadPDF from "../assets/Curriculo_Victor_Martins_2025.pdf";
 // components
 import { Button } from "../components";
 
@@ -73,7 +73,7 @@ const Hero = () => {
             <a 
               className="w-full sm:w-auto" 
               href={downloadPDF} 
-              download="Curriculo Victor Martins 2024"
+              download="Curriculo Victor Martins 2025"
             >
               
             <Button icon={downloadIcon}>Download CV</Button></a>
