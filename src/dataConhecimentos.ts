@@ -30,7 +30,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: Typescript,
     title: "Typescript",
-    link: `https://kenzie.com.br/blog/typescript/`
+    link: `https://www.alura.com.br/artigos/o-que-e-typescript?srsltid=AfmBOoo40L2z1lU0W3pWQzNjS6lscmrln-HHAS9oDXYAtCY-cl6bfhbz`
   },
 
   {
@@ -38,7 +38,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: Python,
     title: "Python",
-    link: `https://kenzie.com.br/blog/o-que-e-python/`
+    link: `https://www.alura.com.br/artigos/python?srsltid=AfmBOorohkVKAR2O9HWc_0PcBlA2qpnneacqrlX9nAne5bjeMcv8bcG0`
   },
 
   {
@@ -46,7 +46,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: Django,
     title: "Django",
-    link: `https://kenzie.com.br/blog/django/`
+    link: `https://www.alura.com.br/artigos/django-framework?srsltid=AfmBOopEmk59ZYb9urBIevvZtVMZOBl2gprhccF9IYD0GOUTO5-M7kaw`
   },
 
   {
@@ -54,7 +54,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: JavaScript,
     title: "JavaScript",
-    link: `https://kenzie.com.br/blog/javascript/`
+    link: `https://www.alura.com.br/artigos/javascript?srsltid=AfmBOorz8i9Qyb7Du7QXYkCLZl4o9GbqxA0HDxsHno_q50ij30hCp07f`
   },
 
   {
@@ -62,7 +62,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: React,
     title: "React",
-    link: `https://kenzie.com.br/blog/react/`
+    link: `https://www.alura.com.br/artigos/react-js?srsltid=AfmBOoqQYCTcDtpZA79uZmTkXVp_eXTqp_adpnfQu_JAcV1BPBfIf55s`
   },
 
   {
@@ -78,7 +78,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: HTML5,
     title: "HTML5",
-    link: `https://www.linkedin.com/company/ford-brasil/`
+    link: `https://www.alura.com.br/artigos/html?srsltid=AfmBOooMFYWxMqeO6zcs_t52VimFDCkVHsfIBI8qZIqDm7-agaMDoFQ_`
   },
 
   {
@@ -86,7 +86,7 @@ export const works: Work[] = [
     category: "FullStack",
     img: CSS,
     title: "CSS",
-    link: `https://kenzie.com.br/blog/full-stack-o-que-e/`
+    link: `https://www.alura.com.br/artigos/css?srsltid=AfmBOopbT3bLE8A3MW3e3Ef-c2qIFUcJ9el93ggZ0F5zFc9w8q7ohQd_`
   },
 
   {
@@ -118,7 +118,7 @@ export const works: Work[] = [
     category: "Dados",
     img: Python,
     title: "Python",
-    link: `https://kenzie.com.br/blog/o-que-e-python/`
+    link: `https://www.alura.com.br/artigos/python?srsltid=AfmBOorohkVKAR2O9HWc_0PcBlA2qpnneacqrlX9nAne5bjeMcv8bcG0`
   },
 
   {
@@ -142,7 +142,7 @@ export const works: Work[] = [
     category: "Dados",
     img: Excel,
     title: "Excel",
-    link: `https://ebaconline.com.br/blog/o-que-e-para-que-serve-excel`
+    link: `https://www.alura.com.br/artigos/excel-para-financas?srsltid=AfmBOooSTF4YSOCshOKW_G1dbNZMEYV2-rLGCRrw80Zvutmsqh-DqLcN`
   },
 
   {
@@ -158,6 +158,6 @@ export const works: Work[] = [
     category: "Dados",
     img: Pandas,
     title: "Pandas",
-    link: `https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar`
+    link: `https://www.alura.com.br/artigos/relevancia-vba?srsltid=AfmBOoqj_FxBD5cE430_RFg6S0KsrkZryeWCBNZvHJZghF0SENy1w10d`
   },
 ];

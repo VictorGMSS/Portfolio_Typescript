@@ -59,18 +59,18 @@ export const works: Work[] = [
     `,
 
     inWork: `
-      Na LigaGG estou atuando nas seguintes responsabilidades:
+      Na LigaGG aatuei nas seguintes responsabilidades:
     `,
 
     tools: `
-      processos de ETL com Python e Pandas, realizando a manutenção das automatizações, trabalhando com a Riot API para extrair dados, 
-      automatizações de tabelas dos campeonatos feitos pela liga, realizando cálculos para ranquear os jogadores e equipes do 
-      Automatização dos sorteios que abrangem todos os confrontos do campeonato.
+      processos de ETL com Python e Pandas, realizei a manutenção das automatizações, trabalhei com a Riot API para 
+      extrair dados, automatizei de tabelas dos campeonatos feitos pela liga, realizei cálculos para ranquear os 
+      jogadores e equipes e automatizei os sorteios que abrangem todos os confrontos do campeonato.
     `,
 
     link: `https://www.linkedin.com/company/liga-gg/mycompany/`,
 
-    data: `09/2021 - atualmente`
+    data: `09/2021 - 03/2025`
   },
 
   {
