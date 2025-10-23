@@ -1,6 +1,6 @@
 // assets
 import homePageImg from "../assets/Background_1.svg";
-import homePageIllustation from "../assets/hero-illustration.svg";
+import homePageIllustation from "../assets/hero-illustration-data.svg";
 import downloadIcon from "../assets/download-btn-icon.svg";
 import downloadPDF from "../assets/Curriculo_Victor_Martins_2025.pdf";
 // components
@@ -46,7 +46,7 @@ const Hero = () => {
             <br />
             <span style={{ color: '#09DBFF' }}>
               <Typewriter
-                words={["Full Stack", "Data analyst"]}
+                words={["Data scientist", "Cientista de dados"]}
                 cursor
                 cursorStyle="_"
                 typeSpeed={250}

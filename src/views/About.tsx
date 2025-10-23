@@ -46,11 +46,15 @@ const About = () => {
 
           <Reveal>
             <p className="text-left xl:text-start text-base sm:text-lg text-textSecondary" style={{ color: 'white'}}>
-              Olá! Sou Victor, um profissional em Ciências da Computação com experiência em estágios presenciais, manutenção interna em hotéis, trabalho 
-              remoto com startups e grandes empresas, incluindo a FORD, onde atuei como Full Stack por 2 anos, construindo uma plataforma interna para 
-              cálculos de juntas. Voluntariamente, contribuo para projetos de automação, Riot API e Análise de dados na LigaGG. Estou em busca de 
-              oportunidades remotas desafiadoras em Ciências da Computação, Back-end, Full Stack, Análise de Dados ou áreas afins. Sou entusiasta 
-              de games desde a infância, atualmente imerso no universo dos esportes eletrônicos, e busco constantemente ampliar meus conhecimentos.
+              Olá! Sou Victor, formado em Ciência da Computação e atualmente cursando Pós-Graduação em Ciência de Dados.
+
+              Tenho experiência prática em Python, SQL e manipulação de dados, aplicando fundamentos estatísticos e processos de ETL para compreender padrões e gerar valor a partir de dados.
+
+              Atuei em empresas como Ford Brasil, Sys Manager e Kampjo, desenvolvendo soluções que conectam engenharia, automação e análise de dados para apoiar decisões estratégicas.
+
+              Também contribuo como Cientista de Dados voluntário na Liga GG, onde desenvolvo pipelines com Python e Pandas integrados à Riot API para análise de desempenho em competições oficiais de eSports.
+
+              Busco aplicar métodos científicos e pensamento analítico para transformar dados em conhecimento e impacto real.
 
             
             </p>

@@ -14,6 +14,8 @@ import Excel from "./assets/excel_logo.png";
 import VBA from "./assets/VBA_logo.png";
 import Pandas from "./assets/pandas_logo.png";
 import Docker from "./assets/Docker_logo.png";
+import PostgreSQL from "./assets/PostgreSQL_logo.png";
+import MySQL from "./assets/MySQL_logo.png";
 
 interface Work {
   id: number;
@@ -159,5 +161,19 @@ export const works: Work[] = [
     img: Pandas,
     title: "Pandas",
     link: `https://www.alura.com.br/artigos/relevancia-vba?srsltid=AfmBOoqj_FxBD5cE430_RFg6S0KsrkZryeWCBNZvHJZghF0SENy1w10d`
+  },
+  {
+    id: 16,
+    category: "Dados",
+    img: PostgreSQL,
+    title: "PostgreSQL",
+    link: `https://www.alura.com.br/artigos/indices-no-postgresql?srsltid=AfmBOorMkqusiSqNmKAzULb0JlP1ib3TGuerP4B3nZy5VppzWwYREM-B`
+  },
+  {
+    id: 16,
+    category: "Dados",
+    img: MySQL,
+    title: "MySQL",
+    link: `https://www.alura.com.br/artigos/my-sql-administrator`
   },
 ];

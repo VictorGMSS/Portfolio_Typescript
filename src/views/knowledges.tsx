@@ -20,13 +20,13 @@ import { transition } from "../utils/transition";
 type Category = "FullStack" | "Dados";
 
 const Projects = () => {
-  const [activeCategory, setActiveCategory] = useState<Category>("FullStack");
+  const [activeCategory, setActiveCategory] = useState<Category>("Dados");
 
   const filteredProjects = () => {
-    if (activeCategory === "FullStack") {
-      return works.filter((item) => item.category === "FullStack");
-    } else {
+    if (activeCategory === "Dados") {
       return works.filter((item) => item.category === "Dados");
+    } else {
+      return works.filter((item) => item.category === "FullStack");
     }
   };
 
@@ -61,17 +61,18 @@ const Projects = () => {
             className="flex items-center gap-4 justify-center xl:justify-start flex-col sm:flex-row"
           >
             <Button
-              secondary={activeCategory === "FullStack" ? true : false}
-              onClick={() => setActiveCategory("FullStack")}
-            >
-              Full stack
-            </Button>
-            <Button
               secondary={activeCategory === "Dados" ? true : false}
               onClick={() => setActiveCategory("Dados")}
             >
               Analise de Dados
             </Button>
+            <Button
+              secondary={activeCategory === "FullStack" ? true : false}
+              onClick={() => setActiveCategory("FullStack")}
+            >
+              Full stack
+            </Button>
+            
           </motion.div>
 
           <motion.div

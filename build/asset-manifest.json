@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f980d042.css",
+    "main.js": "/static/js/main.2b38a13f.js",
+    "static/media/Background_1.svg": "/static/media/Background_1.b7a377be32f263659a69e05a15626b45.svg",
+    "static/media/Background_3.svg": "/static/media/Background_3.76fb75e31425367f9ce8132ddd535111.svg",
+    "static/media/Background_2.svg": "/static/media/Background_2.303035b28411ffd42980e9061689d1dd.svg",
+    "static/media/Curriculo_Victor_Martins_2025.pdf": "/static/media/Curriculo_Victor_Martins_2025.0edffbc94df7ae818414.pdf",
+    "static/media/matplotlib_logo.png": "/static/media/matplotlib_logo.1f3cb36363d0eb2c163f.png",
+    "static/media/python_logo.png": "/static/media/python_logo.67a96446f70ae7be72e9.png",
+    "static/media/Ford_logo.png": "/static/media/Ford_logo.37dc3cf262398bf2253c.png",
+    "static/media/hero-illustration.svg": "/static/media/hero-illustration.49d2882e4ccd13914bd55cff38fa9c5c.svg",
+    "static/media/excel_logo.png": "/static/media/excel_logo.056bf64ee8c118790e72.png",
+    "static/media/about-illustration.svg": "/static/media/about-illustration.c8cead6d7d158be300520383b8c6f583.svg",
+    "static/media/Alura_logo.png": "/static/media/Alura_logo.20b26f246e46e4e65efb.png",
+    "static/media/react_logo.png": "/static/media/react_logo.7cd1f6aee4403e4f5f52.png",
+    "static/media/typescript_logo.png": "/static/media/typescript_logo.659e4b9351cf1baa6930.png",
+    "static/media/Logo_ligagg.png": "/static/media/Logo_ligagg.eb91c498d92f96101a3d.png",
+    "static/media/javascript_logo.png": "/static/media/javascript_logo.5648ae0aeb0182cbd857.png",
+    "static/media/DIO_logo.png": "/static/media/DIO_logo.571cf16f6a3f0dc5e4cc.png",
+    "static/media/css_logo.png": "/static/media/css_logo.84de5dab5fab27f4161c.png",
+    "static/media/Unisantos_logo.jpg": "/static/media/Unisantos_logo.60ae9f8255a1b4571c0f.jpg",
+    "static/media/VBA_logo.png": "/static/media/VBA_logo.e1dc99b49b0ecd1566c5.png",
+    "static/media/numpy_logo.png": "/static/media/numpy_logo.9eca1f7a4f09a8c742fd.png",
+    "static/media/nodeJS_logo.png": "/static/media/nodeJS_logo.50a5eac3340f26096241.png",
+    "static/media/tailwind_logo.png": "/static/media/tailwind_logo.735e4c407b47de876213.png",
+    "static/media/Docker_logo.png": "/static/media/Docker_logo.f4561dc51e10f0e14665.png",
+    "static/media/Html5_logo.png": "/static/media/Html5_logo.6e930594286d8afe4c79.png",
+    "static/media/sofitel_logo.png": "/static/media/sofitel_logo.6e45bbd656aeeff7e18b.png",
+    "static/media/Kampjo_logo.png": "/static/media/Kampjo_logo.97952894c9224a579dfc.png",
+    "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.2c7a5b97ef02b23de8753ede6a5ea99d.svg",
+    "static/media/github-icon.svg": "/static/media/github-icon.6889968c7bf9c194a0bcc373e6a47cf3.svg",
+    "index.html": "/index.html",
+    "static/media/download-btn-icon.svg": "/static/media/download-btn-icon.039ac21d34f40e044ebc8565550c5d14.svg",
+    "main.f980d042.css.map": "/static/css/main.f980d042.css.map",
+    "main.2b38a13f.js.map": "/static/js/main.2b38a13f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f980d042.css",
+    "static/js/main.2b38a13f.js"
+  ]
+}
