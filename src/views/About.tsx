@@ -52,7 +52,7 @@ const About = () => {
 
               Atuei em empresas como Ford Brasil, Sys Manager e Kampjo, desenvolvendo soluções que conectam engenharia, automação e análise de dados para apoiar decisões estratégicas.
 
-              Também contribuo como Cientista de Dados voluntário na Liga GG, onde desenvolvo pipelines com Python e Pandas integrados à Riot API para análise de desempenho em competições oficiais de eSports.
+              Também contribui como Cientista de Dados voluntário na Liga GG, onde desenvolvi pipelines com Python e Pandas integrados à Riot API para análise de desempenho em competições oficiais de eSports.
 
               Busco aplicar métodos científicos e pensamento analítico para transformar dados em conhecimento e impacto real.
 
