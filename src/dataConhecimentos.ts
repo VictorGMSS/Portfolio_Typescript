@@ -14,7 +14,7 @@ import Excel from "./assets/excel_logo.png";
 import VBA from "./assets/VBA_logo.png";
 import Pandas from "./assets/pandas_logo.png";
 import Docker from "./assets/Docker_logo.png";
-import PostgreSQL from "./assets/PostgreSQL_logo.png";
+import PostgreSQL from "./assets/postgresql_logo.png";
 import MySQL from "./assets/MySQL_logo.png";
 
 interface Work {
