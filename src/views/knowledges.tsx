@@ -64,7 +64,7 @@ const Projects = () => {
               secondary={activeCategory === "Dados" ? true : false}
               onClick={() => setActiveCategory("Dados")}
             >
-              Analise de Dados
+              Ciência de dados
             </Button>
             <Button
               secondary={activeCategory === "FullStack" ? true : false}
@@ -85,7 +85,7 @@ const Projects = () => {
           >
             
             {filteredProjects().map((item) => (
-              <a href={item.link} target="_blank">
+              <a href={item.link} target="_blank" rel="noopener noreferrer">
                 <Card imgSrc={item.img} title={item.title} />
               </a>
              //<Card imgSrc={item.img} title={item.title}> <img src={item.img}/> </Card>

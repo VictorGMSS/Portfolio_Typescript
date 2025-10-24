@@ -103,7 +103,7 @@ const Works = () => {
 
                 <div className="sm:hidden">
                   {filteredWorks().map((item) => (
-                    <a href={item.link2} target="_blank">
+                    <a href={item.link2} target="_blank" rel="noopener noreferrer">
                       <Card imgSrc={item.img} title={item.title} />
                     </a>
                   ))}
@@ -117,7 +117,7 @@ const Works = () => {
                     <p>{item.description}</p>
                     <br />
 
-                    <a href={item.link} target="_blank" className="text-secondary lg:text-[25px]"> 
+                    <a href={item.link} target="_blank" className="text-secondary lg:text-[25px]" rel="noopener noreferrer"> 
                       <strong>Ver certificado</strong> 
                     </a>
 
@@ -132,7 +132,7 @@ const Works = () => {
       
           <div className="sm:block hidden">
             {filteredWorks().map((item) => (
-              <a href={item.link2} target="_blank">
+              <a href={item.link2} target="_blank" rel="noopener noreferrer">
                 <Card imgSrc={item.img} title={item.title} />
               </a>
             ))}

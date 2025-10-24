@@ -68,6 +68,7 @@ const Hero = () => {
               className="w-full sm:w-auto" 
               href="https://www.linkedin.com/in/victorgms/"
               target="_blank"
+              rel="noopener noreferrer"
             >
            <Button secondary>Me contate</Button></a>
             <a 

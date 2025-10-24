@@ -5,7 +5,6 @@ import { IconButton, Tooltip } from "@mui/material";
 import HomeIcon from "@mui/icons-material/Home";
 import PersonIcon from "@mui/icons-material/Person";
 import AppsIcon from "@mui/icons-material/Apps";
-import MailIcon from "@mui/icons-material/Mail";
 import ExperienceIcon from "@mui/icons-material/Work";
 import CertificatesIcon from "@mui/icons-material/Article";
 // react-scroll
