@@ -16,6 +16,11 @@ import Pandas from "./assets/pandas_logo.png";
 import Docker from "./assets/Docker_logo.png";
 import PostgreSQL from "./assets/postgresql_logo.png";
 import MySQL from "./assets/MySQL_logo.png";
+import Streamlit from "./assets/streamlit_logo.png";
+import Statsmodels from "./assets/statsmodels_logo.png";
+import Seaborn from "./assets/Seaborn_logo.png";
+import SciPy from "./assets/SciPy_logo.png";
+import ScikitLearn from "./assets/Scikit_learn_logo.png";
 
 interface Work {
   id: number;
@@ -175,5 +180,40 @@ export const works: Work[] = [
     img: MySQL,
     title: "MySQL",
     link: `https://www.alura.com.br/artigos/my-sql-administrator`
+  },
+  {
+    id: 17,
+    category: "Dados",
+    img: Streamlit,
+    title: "Streamlit",
+    link: `https://www.alura.com.br/curso-online-streamlit-construindo-dashboard-interativo?srsltid=AfmBOorRdy9KXQe16d6EAXlha8rK3Ya_H54K2Q8-s29SASJ4E5JJBhDG`
+  },
+  {
+    id: 18,
+    category: "Dados",
+    img: Statsmodels,
+    title: "Statsmodels",
+    link: `https://cursos.alura.com.br/forum/topico-quando-usar-statsmodels-382446`
+  },
+  {
+    id: 19,
+    category: "Dados",
+    img: Seaborn,
+    title: "Seaborn",
+    link: `https://www.alura.com.br/conteudo/python-criando-graficos-distribuicao?srsltid=AfmBOookky_okkfmw8ueYHNEIt8VSjgVMyNH3JsAt2qbRvWENU9eCRhZ`
+  },
+  {
+    id: 20,
+    category: "Dados",
+    img: SciPy,
+    title: "SciPy",
+    link: `https://docs.scipy.org/doc/scipy/`
+  },
+  {
+    id: 21,
+    category: "Dados",
+    img: ScikitLearn,
+    title: "Scikit Learn",
+    link: `https://www.alura.com.br/conteudo/machine-learning-classificacao-sklearn?srsltid=AfmBOopkUqEVJBoS5Bz71bXP1S9g9FcpqzmNSGxAqVpkZLF9_MhHfLby`
   },
 ];
